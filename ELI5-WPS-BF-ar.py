@@ -4,7 +4,7 @@ from itertools import product
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 print("------------------------------------------------------------------------")
-print("| ELI5-WPS-BF أداة كسر كلمة المرور لمواقع ووردبريس بواسطة ELAQ & I554M |")
+print("| ELAQ & I554M أداة كسر كلمة المرور لمواقع ووردبريس بواسطة ELI5-WPS-BF |")
 print("------------------------------------------------------------------------")
 print("مثال: python ELI5-WPS-BF.py -u username.txt -p wordlist.txt")
 
