@@ -3,10 +3,10 @@ import argparse
 from itertools import product
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-print("-------------------------------------------------------------")
-print("| ELI5-WPS-BF a small wp brute forcing tool by ELAQ & I554M |")
-print("-------------------------------------------------------------")
-print("example: python ELI5-WPS-BF.py -u username.txt -p wordlist.txt")
+print("-----------------------------------------------------")
+print("| EL4Q-WPS-BFT a small wp brute forcing tool by ELAQ |")
+print("-----------------------------------------------------")
+print("example: python ebf.py -u username.txt -p wordlist.txt")
 
 session = requests.Session()
 
