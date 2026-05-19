@@ -16,7 +16,7 @@ Key features:
 ## How to Install It
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/sigmakader/ELI5-WPS-BF.git
+   git clone https://github.com/EL4Q/ELI5-WPS-BF.git
    cd ELI5-WPS-BF
 Install Dependencies: Ensure you have Python and pip installed. Then, install the required Python package:
 sh
