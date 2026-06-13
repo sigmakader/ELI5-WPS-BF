@@ -4,9 +4,9 @@ from itertools import product
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 print("------------------------------------------------------------------------")
-print("| ELAQ & I554M أداة كسر كلمة المرور لمواقع ووردبريس بواسطة ELI5-WPS-BF |")
+print("|     ELAQ أداة كسر كلمة المرور لمواقع ووردبريس بواسطة ELI5-WPS-BF     |")
 print("------------------------------------------------------------------------")
-print("مثال: python ELI5-WPS-BF.py -u username.txt -p wordlist.txt")
+print("مثال: python ebf-ar.py -u username.txt -p wordlist.txt")
 
 session = requests.Session()
 
